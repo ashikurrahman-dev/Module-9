@@ -7,6 +7,4 @@
     @include('component.project')
     @include('component.contact')
 
-
-
 @endsection
