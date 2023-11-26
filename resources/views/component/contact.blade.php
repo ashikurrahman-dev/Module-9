@@ -15,7 +15,7 @@
                     <span class="icon-map-signs"></span>
                 </div>
                 <h3 class="mb-4">Address</h3>
-              <p>198 West 21th Street, Suite 721 New York NY 10016</p>
+              <p>Kushtia, Dhaka, Bangladesh</p>
             </div>
         </div>
         <div class="col-md-6 col-lg-3 d-flex ftco-animate">
@@ -33,7 +33,7 @@
                     <span class="icon-paper-plane"></span>
                 </div>
                 <h3 class="mb-4">Email Address</h3>
-              <p><a href="mailto:info@yoursite.com">info@yoursite.com</a></p>
+              <p><a href="mailto:info@yoursite.com">ashikurrahman7134@gmailcom</a></p>
             </div>
         </div>
         <div class="col-md-6 col-lg-3 d-flex ftco-animate">
@@ -70,7 +70,7 @@
         </div>
 
         <div class="col-md-6 d-flex">
-            <div class="img" style="background-image: url(images/about.jpg);"></div>
+            <div class="img" style="background-image: url(images/contact.png);"></div>
         </div>
       </div>
     </div>
